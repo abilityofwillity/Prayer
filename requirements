@@ -1,5 +1,0 @@
-streamlit
-torch
-openai-whisper
-TTS==0.10.1
-pydub
